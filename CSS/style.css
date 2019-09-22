@@ -1,0 +1,28 @@
+* {
+    font-family: 'Exo', sans-serif;
+    color: lightgray;
+}
+body {
+    background-color: #272525;
+}
+table, th, td {
+    border: 1px solid gray;
+}
+.amount {
+    text-align: right;
+}
+/*
+.bg-image {
+    background-image: url(https://lorempixel.com/1920/1008/);
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+}
+*/
